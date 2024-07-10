@@ -164,3 +164,4 @@ cython_debug/
 t4/_about.txt
 t4/spa-eng.zip
 t4/spa.txt
+t4/best_model.pt
